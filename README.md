@@ -29,8 +29,11 @@
 
 ### Clone the Repository
 ```bash
-https://github.com/DrZushaa/FWD_Password_Cracker.git
+git lfs install
+git clone https://github.com/DrZushaa/FWD_Password_Cracker.git
 cd FWD_Password_Cracker
+git lfs pull
+ls -lh WorldList/
 ```
 
 ### Install Dependencies
